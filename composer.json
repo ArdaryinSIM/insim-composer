@@ -1,0 +1,19 @@
+{
+    "name": "ardaryinsim/insim",
+    "description": "insim -sending SMS from MObile via api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "2ws technologies",
+            "email": "direction@ardary-sms.com"
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "Ardaryinsim\\Insim\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "version": "1.0.0"
+}
