@@ -1,7 +1,7 @@
 <?php
 namespace Ardaryinsim\Insim;
 
-class InSim
+class Insim
 {
     public function sendSms($data)
     {
