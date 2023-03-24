@@ -31,8 +31,6 @@ return $response;
 
     }
     public function addContact($data){
-    
-    <?php
 
 $curl = curl_init();
 
